@@ -52,7 +52,7 @@ class _EcxelState extends State<Ecxel> {
 
           Center(
             child: ElevatedButton(
-              child: const Text('طباعة تقرير'),
+              child: const Text('طباعة ملف'),
               onPressed: createdExcel,
             ),
           ),
